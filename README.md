@@ -4,8 +4,8 @@ Two finished spreadsheet tools built for real business workflows. Both work in M
 
 | Template | For | Formulas | Get it |
 |---|---|---|---|
-| **Event Budget Tracker** | Event and wedding planners, companies running events | 1,300+ | [Gumroad](https://gileson2.gumroad.com/l/event-budget-tracker) |
-| **Construction Cash Manager** | Contractors and small construction companies | 3,500+ | [Gumroad](https://gileson2.gumroad.com/l/construction-cash-manager) |
+| **Event Budget Tracker** | Event and wedding planners, companies running events | 1,300+ | [Gumroad](https://gum.co/u/lelgzysc) |
+| **Construction Cash Manager** | Contractors and small construction companies | 3,500+ | [Gumroad](https://gum.co/u/vuubyo1h) |
 
 ---
 
